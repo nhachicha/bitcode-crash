@@ -1,3 +1,10 @@
+# This is a reporduction repo for the issue https://youtrack.jetbrains.com/issue/KT-47390 
+
+
+
+
+
+
 # Realm Multiplatform Sample
 
 A _Kotlin Multiplatform Mobile (KMM) Project_ showing usage of Realm Kotlin in a shared module of a
